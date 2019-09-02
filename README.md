@@ -6,7 +6,7 @@ Top down LL1 parser
 
 Sample TestCase
 --------------------------------------------------------------------------------------------------------------------------
-# This is a test program
+
 PROGRAM Test;
 VAR   
    num1   	: INTEGER;      ## this is an integer
